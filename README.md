@@ -116,7 +116,7 @@ If you find this work useful, please consider citing or referencing the associat
 📘 Master's Thesis: *Cell Pose Estimation*  
 🎓 Author: Zongxie Chen  
 🧑‍🏫 Advisors: Prof. Dr.-Ing. Eckehard Steinbach, Prof. Dr. Oliver Hayden  
-🏫 Institution: Technical University of Munich (TUM)
+🏫 Institution: Technical University of Munich (TUM)  
 📧 Contact: [zongxie.chen@tum.de](mailto:zongxie.chen@tum.de)
 
 ## License
